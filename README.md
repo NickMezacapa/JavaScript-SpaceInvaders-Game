@@ -67,8 +67,21 @@ From the Projectile class I am giving my projectiles a position, velocity, radiu
 5. You are now in the dev environment and you're free to play around
 
 ## Manual Test Cases for functionality
-
-## Unit Testing
+- User is able to move player left or right
+- When player reaches end of screen (max canvas width) they are not able to move further
+- When player moves left or right, player character is slightly rotated in direction of movement
+- When a player is not moving, there is no rotation angle
+- Player is able to fire projectiles by clicking the ArrowUp key
+- When a projectile hits an invader, invader explodes into particles
+- When a projectile hits an invader, score is increased by 1 point
+- Invaders can fire projectiles towards player
+- If player is hit by invader projectile, player character explodes into particles
+- If player is hit by invader projectile, game is over
+- If game is over, an alert will appear on screen with the score and prompt user to restart
+- Invaders regenerate in grids at random intervals
+- Every time a grid of invaders reaches the end of the screen (max canvas width) they move in opposite direction and down the page by 30px towards the player (y position decreases)(x velocity negates)
+- If a grid of invaders reaches the player before being shot down, game is over
+- Only the arrow keys control player movement
 
 ## Screen Recordings and Snapshots
 #### Live gameplay recording
