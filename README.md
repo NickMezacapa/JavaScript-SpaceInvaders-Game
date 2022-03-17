@@ -7,6 +7,7 @@ The original Space Invaders arcade game was developed in 1978. In most of the ol
 Fun fact: The original Space Invaders arguably set the template for fixed shooter games, and found nearly 8 million daily players in Japan quickly after its launch.
 
 ## Play Live Game:
+https://nickmezacapa.github.io/JavaScript-SpaceInvaders-Game/
 
 ## How To Play
 The game is very simple. You, as the shooter, control your spaceship using the arrow keys. You have to shoot down hoardes of space invaders before they reach you or before they shoot you themselves. Every invader that's eliminated results in +1 point to your score. You use the left and right arrow keys to move your spaceship left or right, and you use the ArrowUp key to fire projectiles. Upon game end you have the option to restart the game. 
