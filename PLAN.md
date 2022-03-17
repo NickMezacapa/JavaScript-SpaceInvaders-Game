@@ -18,7 +18,7 @@ Steps:
 16. Restart Game Button                            
 17. Basic front end UI with title and control menu  
 
-Extra:
+Extra Features:
 
 - Bombs
 - Progressively harder enemies
